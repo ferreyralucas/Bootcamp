@@ -5,4 +5,5 @@ public class Clase_C implements Interface_A {
         System.out.println("Soy la clase C y soy hincha de Boca");
     }
 
+
 }
