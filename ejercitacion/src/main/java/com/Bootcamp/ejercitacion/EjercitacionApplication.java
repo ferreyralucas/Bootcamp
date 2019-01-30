@@ -1,15 +1,13 @@
-package com.example.artefact;
+package com.Bootcamp.ejercitacion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NameApplication {
+public class EjercitacionApplication {
 
 	public static void main(String[] args) {
-
-		SpringApplication.run(NameApplication.class, args);
-		System.out.println("Hola mundo");
+		SpringApplication.run(EjercitacionApplication.class, args);
 	}
 
 }
